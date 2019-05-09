@@ -7,6 +7,9 @@ You can test in this URL: https://ohseok.000webhostapp.com/login.php
   testing ID/PW  : ID: jd@gmail.com 
                    PW: abc123
                    
+ --------------------------------------------------
+see the dataset.pdf to see the database used for the web
+
 ---------------------------------------------------
 adding project4.zip
 is for connect the web pages with android app. additional function of managing task works using android app.
