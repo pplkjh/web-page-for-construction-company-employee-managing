@@ -14,4 +14,5 @@ see the dataset.pdf to see the database used for the web
 adding project4.zip
 is for connect the web pages with android app. additional function of managing task works using android app.
 can be run via android studio.
-using the same employee data(ID, PW) and try the date with 2018-04-27 to check hours of his work for that day
+using the same employee data(ID, PW) and try the date with 2018-04-27 to check hours of his or her work for that day
+if it works properly, it shows his or her name, date and hours of work for that day.
