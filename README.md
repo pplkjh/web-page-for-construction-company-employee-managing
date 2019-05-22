@@ -3,9 +3,10 @@
 
 read spac pdf first
 
-You can test in this URL: https://ohseok.000webhostapp.com/login.php
-  testing ID/PW  : ID: jd@gmail.com 
-                   PW: abc123
+You can test in this URL: https://ohseok.000webhostapp.com/login.php  
+<p> testing ID/PW  :   ID: jd@gmail.com  </p>
+<p>                    PW: abc123</p>
+
                    
  --------------------------------------------------
 see the dataset.pdf to see the database used for the web
